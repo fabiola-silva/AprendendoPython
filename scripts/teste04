@@ -1,0 +1,9 @@
+#Crie um script Python que leia dois números e tente mostrar a soma entre eles.
+
+primeiro = int (input('Primeiro numero: '))
+segundo = int (input('Segundo numero: '))
+
+soma = primeiro + segundo
+
+print('A soma é ' + str(soma))
+
